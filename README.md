@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started
 
 Welcome to your new project.
@@ -23,3 +24,7 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+=======
+# logistics_service
+logistics
+>>>>>>> d8911226cc715fac68cb1bdc58d70c984ef06d26
