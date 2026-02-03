@@ -1,0 +1,7 @@
+ID,cust_name,phone,email,address,createdAt,createdBy,modifiedAt,modifiedBy
+2f9a3b72-4c51-4f0a-9a33-1a4d9b1e8a01,Akash J,7904143657,akash.j@example.com,Chennai Tamil Nadu India,2006-07-21T00:00:00.000Z,createdBy.9k2jd@example.com,2007-02-18T00:00:00.000Z,modifiedBy.9k2jd@example.com
+7c1e9d44-88f2-4e9c-b8a1-3d5b6c7f2a02,Rohit Sharma,9876543210,rohit.sharma@example.com,Mumbai Maharashtra India,2008-11-03T00:00:00.000Z,createdBy.7hs92@example.com,2009-05-27T00:00:00.000Z,modifiedBy.7hs92@example.com
+5b3d6f81-22a7-4c12-91b0-4f6e8a9c3b03,Priya Nair,9123456780,priya.nair@example.com,Kochi Kerala India,2010-01-14T00:00:00.000Z,createdBy.3jd82@example.com,2011-04-09T00:00:00.000Z,modifiedBy.3jd82@example.com
+9a7c2e55-6d33-4b8f-9c2a-6e1f4b7a5d04,Vikram Singh,9012345678,vikram.singh@example.com,Delhi India,2012-06-30T00:00:00.000Z,createdBy.8pl45@example.com,2013-12-12T00:00:00.000Z,modifiedBy.8pl45@example.com
+1d4e7f63-99b1-4a2d-8f3c-8b2d5e6a7f05,Anjali Mehta,9345678123,anjali.mehta@example.com,Pune Maharashtra India,2014-08-19T00:00:00.000Z,createdBy.2mk91@example.com,2015-10-22T00:00:00.000Z,modifiedBy.2mk91@example.com
+3e6f8a21-77c4-4d5b-9a1e-9c4d6f8b2a06,Karthik Raj,9789012345,karthik.raj@example.com,Bengaluru Karnataka India,2016-09-05T00:00:00.000Z,createdBy.6rt34@example.com,2017-03-16T00:00:00.000Z,modifiedBy.6rt34@example.com
